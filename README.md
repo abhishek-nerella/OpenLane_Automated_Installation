@@ -13,7 +13,7 @@ This script builds openlane and all its dependencies on an Ubuntu (only) System.
 3. Change directory to where openlane_build_script folder was cloned. `cd /path/to/openlane_build_script`
 4. Execute the script as below:
 
-        - `chmod 775 openlane_script.sh`
+        - `chmod 775 Openlane_script.sh`
         - `./openlane_script.sh`
 
 5. This script would create following directory structure:
