@@ -51,6 +51,7 @@ This script builds openlane and all its dependencies on an Ubuntu (only) System.
 
 [efabless OpenLane team](https://github.com/efabless/openlane)
 
+# Copyright Notice
 /*
 
 * Copyright (c) 2022, Shiv Nadar University, Delhi NCR, India. All Rights
